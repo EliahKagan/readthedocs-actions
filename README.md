@@ -1,3 +1,5 @@
+*This branch contains experimental changes not currently useful to propose upstream.*
+
 # GitHub Actions for Read the Docs
 
 This repository contains all the official GitHub Actions for Read the Docs.
