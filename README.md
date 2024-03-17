@@ -1,5 +1,7 @@
 *This branch contains experimental changes not currently useful to propose upstream.*
 
+\[This is some text added for a test PR, to open against EliahKagan/readthedocs-actions, not the official upstream!\]
+
 # GitHub Actions for Read the Docs
 
 This repository contains all the official GitHub Actions for Read the Docs.
