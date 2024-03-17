@@ -41,6 +41,7 @@ runs:
       uses: actions/github-script@v6
       with:
         script: |
+          console.log(`Node.js version: ${process.version}`);
           const inputs = {
             "project-slug": "${{ inputs.project-slug }}",
             "project-language": "${{ inputs.project-language }}",
