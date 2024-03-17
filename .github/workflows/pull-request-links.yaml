@@ -1,4 +1,4 @@
-name: readthedocs/actions
+name: readthedocs/actions (fork)
 on:
   pull_request_target:
     types:
